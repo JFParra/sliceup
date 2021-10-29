@@ -1,0 +1,12 @@
+.calendar-form {
+  background-color: lightblue;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.range-picker-custom {
+  min-width: 40vw;
+}
+.time-ranges {
+  flex-grow: 4;
+}
